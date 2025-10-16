@@ -1,0 +1,6 @@
+*.py
+*.iml
+**/Main/
+.idea/
+.vscode/
+out/
