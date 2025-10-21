@@ -1,4 +1,4 @@
-// María Isabel Pérez Cruz
+// María Isabel Pérez
 package registroInstructores;
 
 import javax.swing.*;
